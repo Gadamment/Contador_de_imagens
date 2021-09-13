@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Identificador_de_imagens", "Identificador_de_imagens\Identificador_de_imagens.csproj", "{AA2862EB-D4B1-47EE-8411-77787058CD71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA2862EB-D4B1-47EE-8411-77787058CD71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA2862EB-D4B1-47EE-8411-77787058CD71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA2862EB-D4B1-47EE-8411-77787058CD71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA2862EB-D4B1-47EE-8411-77787058CD71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DD23232-7B63-4EC9-BB7C-6EF94FCAA6EA}
+	EndGlobalSection
+EndGlobal
